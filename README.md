@@ -24,7 +24,7 @@ MovieApp은 영화 정보를 탐색하고 관리할 수 있는 웹 애플리케�
 1. 저장소를 클론합니다:
 
     ```
-    git clone https://github.com/your-username/movie-app.git
+    git clone https://github.com/newri0807/next14-graphql.git
     ```
 
 2. 프로젝트 디렉토리로 이동합니다:
