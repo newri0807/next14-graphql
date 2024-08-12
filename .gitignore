@@ -39,5 +39,5 @@ next-env.d.ts
 .env
 
 
-.eslintrc.json
-.git
+#.eslintrc.json
+#.git
